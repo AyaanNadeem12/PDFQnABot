@@ -19,7 +19,12 @@ AI-powered desktop chatbot (ChatGPT-style) with optional PDF Q&A — built with 
 
 ---
 
-## Screenshots (Coming Soon)
+## Screenshots
+**App Startup:**  
+![App Screenshot 1](assets/screenshot1.png)
+
+**Chat with PDF:**  
+![App Screenshot 2](assets/screenshot2.png)
 
 ---
 
